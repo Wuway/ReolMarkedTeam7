@@ -34,9 +34,6 @@ public partial class MainWindow : Window
         {
             connection.Open();
             MessageBox.Show("Database connection made");
-
         }
-
-
     }
 }
